@@ -65,8 +65,8 @@
 		
 		"afterPeace": "...",
 		"tradeRequest": "...",
-		"outerColor": [218, 165, 32],
-		"innerColor": [178, 34, 34],
+		"outerColor": [178, 34, 34],
+		"innerColor": [218, 165, 32],
 		"uniqueName": "Call of the Seas",
 		"uniques": ["[+1 Happiness, +1 Culture, +1 Production, -1 Science, -1 Food] from every [Barracks]", 
 			    "[+1 Happiness, +1 Culture, +1 Production, -1 Science, -1 Food] from every [Armory]",
