@@ -30,7 +30,7 @@
 		"innerColor": [70 , 130, 180],
 		"unique": "...",
 		"uniques": ["[+1 Food, +1 Gold] from every [Fishing Boats]", 
-			    "Gain [25] [Gold] <(modified by game speed)> <after discovering [Siling]>", 
+			    "Gain [25] [Gold] <(modified by game speed)> <after discovering [Sailing]>", 
 			    "Gain [30] [Gold] <(modified by game speed)> <after discovering [Optics]>"],
 		"cities": ["Athens"]
 	}
