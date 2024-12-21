@@ -69,6 +69,7 @@
 		"innerColor": [178, 34, 34],
 		"uniqueName": "Call of the Seas",
 		"uniques": ["[+1 Happiness, +1 Culture, +1 Production, -1 Science, -1 Food] from every [Barracks]", 
+			    "[+1 Happiness, +1 Culture, +1 Production, -1 Science, -1 Food] from every [Armory]",
                             "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", 
 		            "New [Military] units start with [5] Experience [in this city]",
 		            "[+25]% Strength <when attacking> <when adjacent to a [{Friendly} {Melee}] unit>"],
