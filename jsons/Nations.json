@@ -37,5 +37,41 @@
 		            "[+50]% Strength <when defending> <when [Embarked]> <for [All] units>",
 		            "[+50]% maintenance costs <for [{Military} {Land}] units>"],
 		"cities": ["Athens"]
+	},
+	{
+		"name": "Sparta",
+		"leaderName": "Leonidas",
+		"adjective": ["Spartans"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "...",
+		"startIntroPart2": "...",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"neutralLetsHearIt": ["..."],
+		"neutralNo": ["..."],
+		"neutralYes": ["..."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["..."],
+		
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"outerColor": [255, 250, 250],
+		"innerColor": [178, 34, 34],
+		"uniqueName": "Call of the Seas",
+		"uniques": ["[+1 Happiness, +1 Culture, +1 Production, -1 Scince, -1 Food] from every [Barracks]", 
+                            "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", 
+		            "New [Military] units start with [5] Experience [in this city]",
+		            "[+25]% Strength <when attacking> <when adjacent to a [{Friendly} {Melee}] unit>"],
+		"cities": ["Sparta"]
 	}
 ]
