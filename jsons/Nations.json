@@ -33,7 +33,8 @@
 			    "Gain [25] [Gold] <(modified by game speed)> <upon founding a city> <after discovering [Sailing]>", 
 			    "Gain [30] [Gold] <(modified by game speed)> <upon founding a city> <after discovering [Optics]>",
 		            "[{Military} {Land}] units gain the [Amphibious] promotion",
-		            "[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>"],
+		            "[+1] Movement <for [Embarked] units>", "[1] Movement point cost to disembark <for [All] units>",
+		            "[+50]% Strength <when defending> <when [Embarked]> <for [All] units>"],
 		"cities": ["Athens"]
 	}
 ]
