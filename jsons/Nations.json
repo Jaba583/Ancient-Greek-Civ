@@ -30,6 +30,7 @@
 		"outerColor": [255, 250, 250],
 		"innerColor": [70 , 130, 180],
 		"unique": "...",
+		"uniques": ["[+1 Food, +1 Gold] from every [Fishing Boats],
 		"cities": ["Athens"]
 	}
 ]
