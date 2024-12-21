@@ -15,5 +15,20 @@
 		"upgradesTo": "Caravel",
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Spartan Hoplite",
+		"unitType": "Sword",
+		"uniqueTo": "Sparta",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 64,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
+		            "No movement cost to pillage <for [Melee] units>"],
+		"attackSound": "metalhit"
 	}
 ]
