@@ -1,17 +1,19 @@
 [
+	
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Shock Trireme",
+		"unitType": "Melee Water",
+		"uniqueTo": "Athens",
+		"replaces": "Trireme",
+		"movement": 5,
+		"strength": 9,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles",
+			    "Never appears as a Barbarian unit", 
+		            "[+33]% Strength <vs [Wounded] units>"],
+		"upgradesTo": "Caravel",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "nonmetalhit"
 	}
 ]
