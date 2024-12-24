@@ -105,7 +105,7 @@
 		"outerColor": [75, 0, 130],
 		"innerColor": [245, 222, 179],
 		"uniqueName": "Great Legacy",
-		"uniques": ["When conquering an encampment, earn [30] Gold and recruit a Barbarian unit <with [70]% chance>",
+		"uniques": ["When conquering an encampment, earn [30] [Gold] and recruit a Barbarian unit <with [70]% chance>",
 		            "[-33]% City-State Influence degradation",
 		            "[+25]% Strength <vs [City-States]>"],
 		"cities": ["Pella"]
