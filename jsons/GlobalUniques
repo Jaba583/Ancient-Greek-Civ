@@ -1,7 +1,7 @@
 {
     "name": "Global uniques",
     "uniques": [
-        "[All] [Millitary] units gain [+25]% Strength <vs Sarissophorus> <when using Flank Atack",
+        "[+33]% to Flank Attack bonuses <vs [Sarissophorus] units>",
         "[-75]% growth [in all cities] <when between [-10] and [-1] Happiness>",
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
         "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
