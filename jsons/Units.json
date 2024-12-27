@@ -49,7 +49,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-                "name": "Getair",
+                "name": "Companion Cavalry",
                 "unitType": "Mounted",
 		"uniqueTo": "Macedonia"
 	        "replaces": "Horseman",
