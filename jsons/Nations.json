@@ -68,8 +68,8 @@
 		"outerColor": [178, 34, 34],
 		"innerColor": [255, 215, 0],
 		"uniqueName": "Agoe System",
-		"uniques": ["[+1 Happiness, +1 Culture, +1 Production, -1 Science, -1 Food] from every [Barracks]", 
-			    "[+1 Happiness, +1 Culture, +1 Production, -1 Science, -1 Food] from every [Armory]",
+		"uniques": ["[+1 Happiness, +1 Culture, +1 Production, -2 Science, -2 Food] from every [Barracks]", 
+			    "[+1 Happiness, +1 Culture, +1 Production, -3 Science, -3 Food] from every [Armory]",
                             "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", 
 		            "New [Military] units start with [5] Experience [in this city]",
 		            "[+25]% Strength <when attacking> <when adjacent to a [{Friendly} {Melee}] unit>"],
@@ -107,7 +107,9 @@
 		"uniqueName": "Great Legacy",
 		"uniques": ["When conquering an encampment, earn [30] [Gold] and recruit a Barbarian unit <with [70]% chance>",
 		            "[-33]% City-State Influence degradation",
-		            "[+25]% Strength <vs [City-States]>"],
+		            "[+25]% Strength <vs [City-States]>",
+		            "[+1 Happiness, +1 Culture, +1 Food] from every [Barracks]",
+		            "[+1 Happiness, +1 Culture, +1 Food] from every [Armory]"],
 		"cities": ["Pella"]
 	}
 ]
