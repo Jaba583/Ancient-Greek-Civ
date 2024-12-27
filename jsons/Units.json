@@ -38,7 +38,7 @@
 		"movement": 2,
 		"strength": 12,
 		"rangedStrength": 14,
-		"range": 3,
+		"range": 2,
 		"cost": 70,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Civil Service",
