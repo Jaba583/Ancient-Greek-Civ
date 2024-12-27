@@ -37,6 +37,7 @@
 		"uniqueTo": "Macedonia",
 		"movement": 2,
 		"strength": 14,
+		"range": 2,
 		"cost": 70,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Civil Service",
