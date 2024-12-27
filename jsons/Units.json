@@ -47,5 +47,25 @@
 			    "[+25]% Strength <when attacking> <when adjacent to a [Sarissophorus] unit>",
 		            "[-50]% Strength <vs cities> <when attacking>"],
 		"attackSound": "metalhit"
-	}
+	},
+	{
+                "name": "Getair",
+                "unitType": "Mounted",
+		"uniqueTo": "Macedonia"
+	        "replaces": "Horseman",
+                "movement": 5,
+                "strength": 15,
+                "cost": 90,
+                "requiredTech": "Horseback Riding",
+                "requiredResource": "Horses",
+                "upgradesTo": "Knight",
+                "obsoleteTech": "Chivalry",
+                "uniques": [
+                    "Can move after attacking",
+                    "No defensive terrain bonus",
+                    "[-33]% Strength <vs cities> <when attacking>"
+                ],
+                "hurryCostModifier": 20,
+                "attackSound": "horse"
+    }
 ]
