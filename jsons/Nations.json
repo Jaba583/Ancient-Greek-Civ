@@ -111,5 +111,39 @@
 		            "[+1 Happiness, +1 Culture, +1 Food] from every [Barracks]",
 		            "[+1 Happiness, +1 Culture, +1 Food] from every [Armory]"],
 		"cities": ["Pella"]
+	},
+	{
+		"name": "Thebes",
+		"leaderName": "Epaminondas",
+		"adjective": ["Thebans"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "...",
+		"startIntroPart2": "...",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"neutralLetsHearIt": ["..."],
+		"neutralNo": ["..."],
+		"neutralYes": ["..."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["..."],
+		
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"outerColor": [184, 134, 11],
+		"innerColor": [72 , 61 , 139],
+		"uniqueName": "Call of the Seas",
+		"uniques": ["[+15]% Strength <for [All] units> <during a Golden Age>",
+		            "[+1 Gold, +1 Happiness, +2 Culture, +1 Food] <during a Golden Age>"],
+		"cities": ["Thebes"]
 	}
 ]
