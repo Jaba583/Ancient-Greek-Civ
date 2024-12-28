@@ -97,7 +97,7 @@
 	{
 		"name": "Peltast",
 		"unitType": "Archery",
-		"uniqueTo": "Thebes",
+		"uniqueTo": "Corinth",
 		"replaces": "Composite Bowman",
 		"movement": 3,
 		"strength": 9,
@@ -111,7 +111,7 @@
 	{
 		"name": "Hoplite of Corinth",
 		"unitType": "Sword",
-	        "uniqueTo": "Thebes",
+	        "uniqueTo": "Corinth",
 		"replaces": "Spearman",
 		"movement": 2,
 		"strength": 13,
