@@ -65,5 +65,33 @@
 			    "[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
+	},
+	{
+		"name": "Hypaspist",
+		"unitType": "Archery",
+		"uniqueTo": "Thebes",
+		"replaces": "Composite Bowman",
+		"movement": 3,
+		"strength": 9,
+		"rangedStrength": 13,
+		"cost": ,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Theban and Hamippus",
+		"unitType": "Archery",
+		"uniqueTo": "Thebes",
+		"replaces": "Archer",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
 	}
 ]
