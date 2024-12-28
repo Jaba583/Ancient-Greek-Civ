@@ -74,7 +74,7 @@
 		"movement": 3,
 		"strength": 9,
 		"rangedStrength": 13,
-		"cost": ,
+		"cost": 70,
 		"requiredTech": "Construction",
 		"obsoleteTech": "Machinery",
 		"upgradesTo": "Crossbowman",
