@@ -93,5 +93,34 @@
 		"obsoleteTech": "Construction",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
+	},
+	{
+		"name": "Peltast",
+		"unitType": "Archery",
+		"uniqueTo": "Thebes",
+		"replaces": "Composite Bowman",
+		"movement": 3,
+		"strength": 9,
+		"rangedStrength": 12,
+		"cost": 70,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Hoplite of Corinth",
+		"unitType": "Sword",
+	        "uniqueTo": "Thebes",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 13,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
+		            "[+1] Movement <when [Embarked]>"],
+		"attackSound": "metalhit"
 	}
 ]
