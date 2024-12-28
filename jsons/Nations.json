@@ -179,7 +179,7 @@
 		"uniques": ["[+2 Gold] from each Trade Route",
 		            "[+3 Science] from every [Great Improvement]",
 		            "[-20]% City-State Influence degradation",
-		            "[+20]% City-State Influence recovers"],
+		            "[+20]% to restoring influence on City-States"],
 		"cities": ["Corinth"]
 	}
 ]
