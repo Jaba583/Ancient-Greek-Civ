@@ -145,5 +145,41 @@
 		"uniques": ["[+15]% Strength <for [All] units> <during a Golden Age>",
 		            "[+1 Gold, +1 Happiness, +2 Culture, +1 Food] <during a Golden Age>"],
 		"cities": ["Thebes"]
+	},
+	{
+		"name": "Corinth",
+		"leaderName": "Sisyphus",
+		"adjective": ["Corinthians"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "...",
+		"startIntroPart2": "...",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"neutralLetsHearIt": ["..."],
+		"neutralNo": ["..."],
+		"neutralYes": ["..."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["..."],
+		
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"outerColor": [244, 164, 96],
+		"innerColor": [70 , 130, 180],
+		"uniqueName": "Call of the Seas",
+		"uniques": ["[+2 Gold] from each Trade Route",
+		            "[+3 Science] from every [Great Improvement]",
+		            "[-20]% City-State Influence degradation",
+		            "[+20]% City-State Influence recovers"],
+		"cities": ["Corinth"]
 	}
 ]
