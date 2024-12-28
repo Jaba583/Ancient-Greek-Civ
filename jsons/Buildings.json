@@ -1,14 +1,1 @@
-[
-	{
-		"name": "Ναός",
-		"uniqueTo": "Thebes",
-		"replaces": "Shrine",
-		"faith": 2,
-		"culture": 1,
-		"happiness": 1,
-		"cost": 50,
-		"maintenance": 1,
-		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>"]
-	}
-]
+
