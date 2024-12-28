@@ -2,7 +2,7 @@
 	{
 		"name": "Ναός",
 		"uniqueTo": "Thebes",
-		"replace": "Shrine",
+		"replaces": "Shrine",
 		"faith": 2,
 		"culture": 1,
 		"happiness": 1,
