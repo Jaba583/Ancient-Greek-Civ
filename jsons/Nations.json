@@ -189,7 +189,7 @@
 		"leaderName": "Pyrrhus",
 		"adjective": ["Epirotes"],
 		"startBias": ["Coast"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "...",
 		"startIntroPart2": "...",
@@ -213,8 +213,8 @@
 		"tradeRequest": "...",
 		"outerColor": [160, 82, 45],
 		"innerColor": [255, 222, 173],
-		"uniqueName": "Call of the Seas",
-		"uniques": ["[+2 Food, +2 Production] from every [Hill] tile improvement"],
+		"uniqueName": "Eagle Flight",
+		"uniques": ["[+2 Food, +2 Production] from every [Hill] tile with improvement"],
 		"cities": ["Ioannina"]
 	}
 ]
