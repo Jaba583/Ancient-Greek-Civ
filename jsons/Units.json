@@ -137,8 +137,8 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 		            "[+10]% Strength <when attacking>",
 			    "[+10]% Strength <when defending>"],
-		"promotions": ["[Amphibius]",
-			      "[Ignore terrain cost]"],
+		"promotions": ["Amphibius",
+			       "Ignore terrain cost"],
 		"attackSound": "metalhit"
 	},
 	{
