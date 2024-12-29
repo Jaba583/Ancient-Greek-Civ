@@ -122,5 +122,53 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 		            "[+1] Movement <when [Embarked]>"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Hoplite",
+		"unitType": "Sword",
+		"replaces": "Spearman",
+		"uniqueTo": "Epirus",
+		"movement": 2,
+		"strength": 14,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>",
+		            "[+10]% Strength <when attacking>",
+			    "[+10]% Strength <when defending>"],
+		"promotions": ["[Amphibius]",
+			      "[Ignore terrain cost]"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "War Elephant",
+		"unitType": "Mounted",
+		"replaces": "Horseman",
+		"uniqueTo": "Epirus",
+		"movement": 3,
+		"strength": 18,
+		"cost": 90,
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus", 
+			    "[-33]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "elephant"
+	},
+	{
+		"name": "Great Commander",
+		"unitType": "Civilian",
+		"uniqueTo": "Epirus"
+		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
+                            "[+10]% Strength bonus for [Military] units within [3] tiles",
+                            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			    "Can be earned through combat",
+			    "Great Person - [War]", "Unbuildable", "Uncapturable",
+		            "All adjacent units heal [+5] HP when healing",],
+		"promotions": ["[Ignore terrain cost]",
+		"movement": 3"
 	}
 ]
