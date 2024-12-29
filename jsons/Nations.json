@@ -248,7 +248,7 @@
 		"innerColor": [211, 211, 211],
 		"uniqueName": "Plains of Peleus",
 		"uniques": ["[+1 Food] from every [River]",
-		            "[+1Food] from every [Flood plains]",
+		            "[+1 Food] from every [Flood plains]",
 		            "[+1 Production] from every [Farm]",
 		            "[+3 Gold] from each Trade Route",
 		            "City-State territory always counts as friendly territory"],
