@@ -142,7 +142,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "War Elephant",
+		"name": "Elephant",
 		"unitType": "Mounted",
 		"replaces": "Horseman",
 		"uniqueTo": "Epirus",
