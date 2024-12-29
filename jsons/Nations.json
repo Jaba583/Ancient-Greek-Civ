@@ -183,5 +183,38 @@
 		            "Resting point for Influence with City-States is increased by [20]",
 		            "[+2 Happiness, +2 Culture, +1 Faith] from every [Shrine]"],
 		"cities": ["Corinth"]
+	},
+	{
+		"name": "Epirus",
+		"leaderName": "Pyrrhus",
+		"adjective": ["Epirotes"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "...",
+		"startIntroPart2": "...",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"neutralLetsHearIt": ["..."],
+		"neutralNo": ["..."],
+		"neutralYes": ["..."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["..."],
+		
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"outerColor": [160, 82, 45],
+		"innerColor": [255, 222, 173],
+		"uniqueName": "Call of the Seas",
+		"uniques": ["[+2 Food, +2 Production] from every [Hill] tile that has an improvement"],
+		"cities": ["Ioannina]
 	}
 ]
