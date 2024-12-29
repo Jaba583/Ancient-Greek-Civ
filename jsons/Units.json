@@ -161,6 +161,7 @@
 	{
 		"name": "Great Commander",
 		"unitType": "Civilian",
+		"replaces": "Great General",
 		"uniqueTo": "Epirus"
 		"uniques": ["Empire enters a [8]-turn Golden Age <by consuming this unit>",
                             "[+10]% Strength bonus for [Military] units within [3] tiles",
