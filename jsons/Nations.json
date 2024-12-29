@@ -214,7 +214,7 @@
 		"outerColor": [160, 82, 45],
 		"innerColor": [255, 222, 173],
 		"uniqueName": "Eagle Flight",
-		"uniques": ["[+2 Food, +2 Production] from every [Hill] improvement"],
+		"uniques": ["[+2 Food, +2 Production] from every [Hill] <that has an improvement>"],
 		"cities": ["Ioannina"]
 	}
 ]
