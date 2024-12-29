@@ -169,7 +169,7 @@
 			    "Can be earned through combat",
 			    "Great Person - [War]", "Unbuildable", "Uncapturable",
 		            "All adjacent units heal [+5] HP when healing"],
-		"promotions": ["[Ignore terrain cost]",
+		"promotions": ["Ignore terrain cost"],
 		"movement": 3
 	}
 ]
