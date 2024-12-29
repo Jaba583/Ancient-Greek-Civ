@@ -216,5 +216,38 @@
 		"uniqueName": "Eagle Flight",
 		"uniques": ["[+1 Food, +1 Production] from every [Hill] <in [improved] tiles>"],
 		"cities": ["Ioannina"]
+	},
+	{
+		"name": "Thessaly",
+		"leaderName": "Constantin Duca",
+		"adjective": ["Thessalians"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "...",
+		"startIntroPart2": "...",
+		
+		"declaringWar": "...",
+		"attacked": "...",
+		"defeated": "...",
+		"introduction": "...",
+		
+		"neutralHello": "...",
+		"neutralLetsHearIt": ["..."],
+		"neutralNo": ["..."],
+		"neutralYes": ["..."],
+
+		"hateHello": "...",
+		"hateLetsHearIt": ["..."],
+		"hateNo": ["..."],
+		"hateYes": ["..."],
+		
+		"afterPeace": "...",
+		"tradeRequest": "...",
+		"outerColor": [255, 69, 0],
+		"innerColor": [211, 211, 211],
+		"uniqueName": "Plains of Peleus",
+		"uniques": ["[+1 Food] [in all cities] <with [3] [{River}] tiles>"],
+		"cities": ["Larisa"]
 	}
 ]
