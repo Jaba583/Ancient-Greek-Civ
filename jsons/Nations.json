@@ -247,7 +247,7 @@
 		"outerColor": [255, 69, 0],
 		"innerColor": [211, 211, 211],
 		"uniqueName": "Plains of Peleus",
-		"uniques": ["[+1 Food] [in all cities] <with [3] [{River}] tiles>"],
+		"uniques": ["[+1 food] <from every [3] [River] tiles>"],
 		"cities": ["Larisa"]
 	}
 ]
