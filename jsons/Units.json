@@ -81,7 +81,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Theban and Hamippus",
+		"name": "Theban Hamippus",
 		"unitType": "Sword",
 		"uniqueTo": "Thebes",
 		"replaces": "Spearman",
@@ -123,7 +123,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Hoplite",
+		"name": "Epirote Hoplite",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Epirus",
