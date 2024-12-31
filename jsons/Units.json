@@ -17,7 +17,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Spartan Hoplite",
+		"name": "Hoplite",
 		"unitType": "Sword",
 		"uniqueTo": "Sparta",
 		"replaces": "Spearman",
